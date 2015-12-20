@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Wallpaper Changer</string>
+    <string name="startService">Gestisci gli sfondi</string>
+    <string name="stopService">Smettila di gestire gli sfondi</string>
+    <string name="finish">Nascondi</string>
+</resources>
